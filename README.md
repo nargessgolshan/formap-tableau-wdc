@@ -1,5 +1,5 @@
 
- This is a web data connector for PCAOB Form AP filings (https://pcaobus.org/oversight/standards/implementation-resources-PCAOB-standards-rules/form-ap-auditor-reporting-certain-audit-participants)
+ This is a Tableau web data connector for PCAOB Form AP filings (https://pcaobus.org/oversight/standards/implementation-resources-PCAOB-standards-rules/form-ap-auditor-reporting-certain-audit-participants)
  
  Steps:
  1) Make Sure you have anaconda installed on your computer. If not you can download it here: https://www.anaconda.com/products/individual
