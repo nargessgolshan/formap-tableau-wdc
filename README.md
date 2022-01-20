@@ -12,8 +12,8 @@
  8) then type "jupyter notebook" in command prompt
  9) A browser page opens that lets you open files in the folder that you created. Open formap.ipynb file that you downloaded in step 3
  10) In the first cell type the PATH that you created in step 2 
- 11) Open a new command prompt as in step 6
- 12) Repeat steps 6-8
+ 11) Open a new command prompt as in step 5
+ 12) Repeat steps 6-7
  13) Type "conda create -n jupytab-notebook-env python=3.7"
  14) Type "conda activate jupytab-notebook-env"
  15) Type "conda install -c conda-forge jupytab" and answer y when prompted with y/n command
@@ -23,8 +23,8 @@
  19) Go to the browser page that you opened in step 10
  20) On the "Kernel" -> "Change Kernel" menu , you should see "jupytab-simulation-demo" as an option. Go ahead and select it.
  21) Run the second cell and check if you get any errors. For any packages that you get the "Package not Found Error" do: conda install PACKAGENAME in command prompt where jupytab-notebook-env is active
- 22) Open a new command prompt as in step 6
- 23) Repeat steps 7 and 8
+ 22) Open a new command prompt as in step 5
+ 23) Repeat steps 6-7
  24) In command prompt Type "conda create -n jupytab-server-env python=3.7"
  25) Type "conda activate jupytab-server-env
  26) Type "conda install -c conda-forge jupytab-server" and answer y when prompted with y/n command
