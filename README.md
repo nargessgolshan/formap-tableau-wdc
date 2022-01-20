@@ -16,7 +16,7 @@
  12) Type "jupyter notebook" 
  13) A browser page opens that lets you open files in the folder that you created. Open formap.ipynb file that you downloaded in step 3
  14) On the "Kernel" -> "Change Kernel" menu , you should see "jupytab-simulation-demo" as an option. Go ahead and select it.
- 15) In the first cell type the PATH  that you created in step 2 in os.ch("PATH") and path="PATH" 
+ 15) In the first cell type the PATH  that you created in step 2 in os.ch("PATH") and path="PATH". NO NEED TO CHANGE ANYTHING ELSE IN THIS NOTEBOOK
  16) Open a new command prompt as in step 5
  17) Repeat steps 6-7
  18) Run the second cell and check if you get any errors. For any packages that you get the "Package not Found Error" do: pip install PACKAGENAME in command prompt where jupytab-notebook-env is active
