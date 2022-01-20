@@ -21,7 +21,7 @@
  17) In the first cell type the PATH that you created in step 2 
  18) Open a new command prompt as in step 5
  19) Repeat steps 6-7
- 20) Run the second cell and check if you get any errors. For any packages that you get the "Package not Found Error" do: conda install PACKAGENAME in command prompt where jupytab-notebook-env is active
+ 20) Run the second cell and check if you get any errors. For any packages that you get the "Package not Found Error" do: pip install PACKAGENAME in command prompt where jupytab-notebook-env is active
  21) Open a new command prompt from anaconda as in step 5
  22) Repeat steps 6-7
  23) In command prompt Type "conda create -n jupytab-server-env python=3.7" NOTE: MAKE SURE YOU ARE IN THE FOLDER THAT YOU CREATED IN STEP 2
